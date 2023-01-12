@@ -1,0 +1,125 @@
+C:\Users\MKenShred\Desktop\Project\EN-Coder\EN-Coder\bin\Debug\EN-Coder.exe.config
+C:\Users\MKenShred\Desktop\Project\EN-Coder\EN-Coder\bin\Debug\EN-Coder.exe
+C:\Users\MKenShred\Desktop\Project\EN-Coder\EN-Coder\bin\Debug\EN-Coder.pdb
+C:\Users\MKenShred\Desktop\Project\EN-Coder\EN-Coder\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\MKenShred\Desktop\Project\EN-Coder\EN-Coder\bin\Debug\FontAwesome.Sharp.Pro.dll
+C:\Users\MKenShred\Desktop\Project\EN-Coder\EN-Coder\obj\Debug\EN-Coder.csprojAssemblyReference.cache
+C:\Users\MKenShred\Desktop\Project\EN-Coder\EN-Coder\obj\Debug\EN_Coder.Properties.Resources.resources
+C:\Users\MKenShred\Desktop\Project\EN-Coder\EN-Coder\obj\Debug\EN-Coder.csproj.GenerateResource.cache
+C:\Users\MKenShred\Desktop\Project\EN-Coder\EN-Coder\obj\Debug\EN-Coder.csproj.CoreCompileInputs.cache
+C:\Users\MKenShred\Desktop\Project\EN-Coder\EN-Coder\obj\Debug\EN-Coder.csproj.CopyComplete
+C:\Users\MKenShred\Desktop\Project\EN-Coder\EN-Coder\obj\Debug\EN-Coder.exe
+C:\Users\MKenShred\Desktop\Project\EN-Coder\EN-Coder\obj\Debug\EN-Coder.pdb
+C:\Users\MKenShred\Desktop\Project\EN-Coder\EN-Coder\obj\Debug\EN_Coder.mainForm.resources
+C:\Users\MKenShred\Desktop\Project\EN-Coder\EN-Coder\obj\Debug\EN_Coder.Splash.resources
+C:\Users\MKenShred\Desktop\Project\EN-Coder\EN-Coder\obj\Debug\EN_Coder.Forms.FormDProductInventory.resources
+C:\Users\MKenShred\Desktop\Project\EN-Coder\EN-Coder\obj\Debug\EN_Coder.Forms.FormECashMonitor.resources
+C:\Users\MKenShred\Desktop\Project\EN-Coder\EN-Coder\obj\Debug\EN_Coder.Forms.FormFResellersIncome.resources
+C:\Users\MKenShred\Desktop\Project\EN-Coder\EN-Coder\obj\Debug\EN_Coder.Forms.FormGStatistics.resources
+C:\Users\MKenShred\Desktop\Project\EN-Coder\EN-Coder\obj\Debug\EN_Coder.Forms.FormHEncoder.resources
+C:\Users\MKenShred\Desktop\Project\EN-Coder\EN-Coder\obj\Debug\EN_Coder.Forms.Info_Manager_Forms.FormAResellerInfo.resources
+C:\Users\MKenShred\Desktop\Project\EN-Coder\EN-Coder\obj\Debug\EN_Coder.Forms.Info_Manager_Forms.FormBProductInfo.resources
+C:\Users\MKenShred\Desktop\Project\EN-Coder\EN-Coder\obj\Debug\EN_Coder.Forms.Info_Manager_Forms.FormCBranchesInfo.resources
+C:\Users\MKenShred\Desktop\Project\EN-Coder\EN-Coder\obj\Debug\EN_Coder.Forms.Home.FormSignIn.resources
+C:\Users\MKenShred\Desktop\Project\EN-Coder\EN-Coder\obj\Debug\EN_Coder.Forms.Home.FormLogIn.resources
+D:\Desktop\My Files\Project (Encoder)\EN-Coder\EN-Coder\bin\Debug\EN-Coder.exe.config
+D:\Desktop\My Files\Project (Encoder)\EN-Coder\EN-Coder\bin\Debug\EN-Coder.exe
+D:\Desktop\My Files\Project (Encoder)\EN-Coder\EN-Coder\bin\Debug\EN-Coder.pdb
+D:\Desktop\My Files\Project (Encoder)\EN-Coder\EN-Coder\bin\Debug\FontAwesome.Sharp.dll
+D:\Desktop\My Files\Project (Encoder)\EN-Coder\EN-Coder\bin\Debug\FontAwesome.Sharp.Pro.dll
+D:\Desktop\My Files\Project (Encoder)\EN-Coder\EN-Coder\obj\Debug\EN-Coder.csprojAssemblyReference.cache
+D:\Desktop\My Files\Project (Encoder)\EN-Coder\EN-Coder\obj\Debug\EN_Coder.mainForm.resources
+D:\Desktop\My Files\Project (Encoder)\EN-Coder\EN-Coder\obj\Debug\EN_Coder.Forms.FormDProductInventory.resources
+D:\Desktop\My Files\Project (Encoder)\EN-Coder\EN-Coder\obj\Debug\EN_Coder.Forms.FormECashMonitor.resources
+D:\Desktop\My Files\Project (Encoder)\EN-Coder\EN-Coder\obj\Debug\EN_Coder.Forms.FormFResellersIncome.resources
+D:\Desktop\My Files\Project (Encoder)\EN-Coder\EN-Coder\obj\Debug\EN_Coder.Forms.FormGStatistics.resources
+D:\Desktop\My Files\Project (Encoder)\EN-Coder\EN-Coder\obj\Debug\EN_Coder.Forms.FormHEncoder.resources
+D:\Desktop\My Files\Project (Encoder)\EN-Coder\EN-Coder\obj\Debug\EN_Coder.Forms.Home.FormLogIn.resources
+D:\Desktop\My Files\Project (Encoder)\EN-Coder\EN-Coder\obj\Debug\EN_Coder.Forms.Home.FormSignIn.resources
+D:\Desktop\My Files\Project (Encoder)\EN-Coder\EN-Coder\obj\Debug\EN_Coder.Forms.Info_Manager_Forms.FormAResellerInfo.resources
+D:\Desktop\My Files\Project (Encoder)\EN-Coder\EN-Coder\obj\Debug\EN_Coder.Forms.Info_Manager_Forms.FormBProductInfo.resources
+D:\Desktop\My Files\Project (Encoder)\EN-Coder\EN-Coder\obj\Debug\EN_Coder.Forms.Info_Manager_Forms.FormCBranchesInfo.resources
+D:\Desktop\My Files\Project (Encoder)\EN-Coder\EN-Coder\obj\Debug\EN_Coder.Properties.Resources.resources
+D:\Desktop\My Files\Project (Encoder)\EN-Coder\EN-Coder\obj\Debug\EN_Coder.Splash.resources
+D:\Desktop\My Files\Project (Encoder)\EN-Coder\EN-Coder\obj\Debug\EN-Coder.csproj.GenerateResource.cache
+D:\Desktop\My Files\Project (Encoder)\EN-Coder\EN-Coder\obj\Debug\EN-Coder.csproj.CoreCompileInputs.cache
+D:\Desktop\My Files\Project (Encoder)\EN-Coder\EN-Coder\obj\Debug\EN-Coder.csproj.CopyComplete
+D:\Desktop\My Files\Project (Encoder)\EN-Coder\EN-Coder\obj\Debug\EN-Coder.exe
+D:\Desktop\My Files\Project (Encoder)\EN-Coder\EN-Coder\obj\Debug\EN-Coder.pdb
+D:\Desktop\My Files\EN-Coder\EN-Coder\bin\Debug\EN-Coder.exe.config
+D:\Desktop\My Files\EN-Coder\EN-Coder\bin\Debug\EN-Coder.exe
+D:\Desktop\My Files\EN-Coder\EN-Coder\bin\Debug\EN-Coder.pdb
+D:\Desktop\My Files\EN-Coder\EN-Coder\bin\Debug\FontAwesome.Sharp.dll
+D:\Desktop\My Files\EN-Coder\EN-Coder\bin\Debug\FontAwesome.Sharp.Pro.dll
+D:\Desktop\My Files\EN-Coder\EN-Coder\obj\Debug\EN-Coder.csprojAssemblyReference.cache
+D:\Desktop\My Files\EN-Coder\EN-Coder\obj\Debug\EN_Coder.mainForm.resources
+D:\Desktop\My Files\EN-Coder\EN-Coder\obj\Debug\EN_Coder.Forms.FormDProductInventory.resources
+D:\Desktop\My Files\EN-Coder\EN-Coder\obj\Debug\EN_Coder.Forms.FormECashMonitor.resources
+D:\Desktop\My Files\EN-Coder\EN-Coder\obj\Debug\EN_Coder.Forms.FormFResellersIncome.resources
+D:\Desktop\My Files\EN-Coder\EN-Coder\obj\Debug\EN_Coder.Forms.FormGStatistics.resources
+D:\Desktop\My Files\EN-Coder\EN-Coder\obj\Debug\EN_Coder.Forms.FormHEncoder.resources
+D:\Desktop\My Files\EN-Coder\EN-Coder\obj\Debug\EN_Coder.Forms.Home.FormLogIn.resources
+D:\Desktop\My Files\EN-Coder\EN-Coder\obj\Debug\EN_Coder.Forms.Home.FormSignIn.resources
+D:\Desktop\My Files\EN-Coder\EN-Coder\obj\Debug\EN_Coder.Forms.Info_Manager_Forms.FormAResellerInfo.resources
+D:\Desktop\My Files\EN-Coder\EN-Coder\obj\Debug\EN_Coder.Forms.Info_Manager_Forms.FormBProductInfo.resources
+D:\Desktop\My Files\EN-Coder\EN-Coder\obj\Debug\EN_Coder.Forms.Info_Manager_Forms.FormCBranchesInfo.resources
+D:\Desktop\My Files\EN-Coder\EN-Coder\obj\Debug\EN_Coder.Properties.Resources.resources
+D:\Desktop\My Files\EN-Coder\EN-Coder\obj\Debug\EN_Coder.Splash.resources
+D:\Desktop\My Files\EN-Coder\EN-Coder\obj\Debug\EN-Coder.csproj.GenerateResource.cache
+D:\Desktop\My Files\EN-Coder\EN-Coder\obj\Debug\EN-Coder.csproj.CoreCompileInputs.cache
+D:\Desktop\My Files\EN-Coder\EN-Coder\obj\Debug\EN-Coder.csproj.CopyComplete
+D:\Desktop\My Files\EN-Coder\EN-Coder\obj\Debug\EN-Coder.exe
+D:\Desktop\My Files\EN-Coder\EN-Coder\obj\Debug\EN-Coder.pdb
+C:\Users\MKenBC\Desktop\My Files\Project (Encoder)\EN-Coder\EN-Coder\bin\Debug\EN-Coder.exe.config
+C:\Users\MKenBC\Desktop\My Files\Project (Encoder)\EN-Coder\EN-Coder\bin\Debug\EN-Coder.exe
+C:\Users\MKenBC\Desktop\My Files\Project (Encoder)\EN-Coder\EN-Coder\bin\Debug\EN-Coder.pdb
+C:\Users\MKenBC\Desktop\My Files\Project (Encoder)\EN-Coder\EN-Coder\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\MKenBC\Desktop\My Files\Project (Encoder)\EN-Coder\EN-Coder\bin\Debug\FontAwesome.Sharp.Pro.dll
+C:\Users\MKenBC\Desktop\My Files\Project (Encoder)\EN-Coder\EN-Coder\obj\Debug\EN-Coder.csprojAssemblyReference.cache
+C:\Users\MKenBC\Desktop\My Files\Project (Encoder)\EN-Coder\EN-Coder\obj\Debug\EN_Coder.mainForm.resources
+C:\Users\MKenBC\Desktop\My Files\Project (Encoder)\EN-Coder\EN-Coder\obj\Debug\EN_Coder.Forms.FormDProductInventory.resources
+C:\Users\MKenBC\Desktop\My Files\Project (Encoder)\EN-Coder\EN-Coder\obj\Debug\EN_Coder.Forms.FormECashMonitor.resources
+C:\Users\MKenBC\Desktop\My Files\Project (Encoder)\EN-Coder\EN-Coder\obj\Debug\EN_Coder.Forms.FormFResellersIncome.resources
+C:\Users\MKenBC\Desktop\My Files\Project (Encoder)\EN-Coder\EN-Coder\obj\Debug\EN_Coder.Forms.FormGStatistics.resources
+C:\Users\MKenBC\Desktop\My Files\Project (Encoder)\EN-Coder\EN-Coder\obj\Debug\EN_Coder.Forms.FormHEncoder.resources
+C:\Users\MKenBC\Desktop\My Files\Project (Encoder)\EN-Coder\EN-Coder\obj\Debug\EN_Coder.Forms.Home.FormLogIn.resources
+C:\Users\MKenBC\Desktop\My Files\Project (Encoder)\EN-Coder\EN-Coder\obj\Debug\EN_Coder.Forms.Home.FormSignIn.resources
+C:\Users\MKenBC\Desktop\My Files\Project (Encoder)\EN-Coder\EN-Coder\obj\Debug\EN_Coder.Forms.Info_Manager_Forms.FormAResellerInfo.resources
+C:\Users\MKenBC\Desktop\My Files\Project (Encoder)\EN-Coder\EN-Coder\obj\Debug\EN_Coder.Forms.Info_Manager_Forms.FormBProductInfo.resources
+C:\Users\MKenBC\Desktop\My Files\Project (Encoder)\EN-Coder\EN-Coder\obj\Debug\EN_Coder.Forms.Info_Manager_Forms.FormCBranchesInfo.resources
+C:\Users\MKenBC\Desktop\My Files\Project (Encoder)\EN-Coder\EN-Coder\obj\Debug\EN_Coder.Properties.Resources.resources
+C:\Users\MKenBC\Desktop\My Files\Project (Encoder)\EN-Coder\EN-Coder\obj\Debug\EN_Coder.Splash.resources
+C:\Users\MKenBC\Desktop\My Files\Project (Encoder)\EN-Coder\EN-Coder\obj\Debug\EN-Coder.csproj.GenerateResource.cache
+C:\Users\MKenBC\Desktop\My Files\Project (Encoder)\EN-Coder\EN-Coder\obj\Debug\EN-Coder.csproj.CoreCompileInputs.cache
+C:\Users\MKenBC\Desktop\My Files\Project (Encoder)\EN-Coder\EN-Coder\obj\Debug\EN-Coder.csproj.CopyComplete
+C:\Users\MKenBC\Desktop\My Files\Project (Encoder)\EN-Coder\EN-Coder\obj\Debug\EN-Coder.exe
+C:\Users\MKenBC\Desktop\My Files\Project (Encoder)\EN-Coder\EN-Coder\obj\Debug\EN-Coder.pdb
+C:\Users\MKenBC\Desktop\System Encoder\Latest Ongoing\EN-Coder\EN-Coder\bin\Debug\EN-Coder.exe.config
+C:\Users\MKenBC\Desktop\System Encoder\Latest Ongoing\EN-Coder\EN-Coder\bin\Debug\EN-Coder.exe
+C:\Users\MKenBC\Desktop\System Encoder\Latest Ongoing\EN-Coder\EN-Coder\bin\Debug\EN-Coder.pdb
+C:\Users\MKenBC\Desktop\System Encoder\Latest Ongoing\EN-Coder\EN-Coder\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\MKenBC\Desktop\System Encoder\Latest Ongoing\EN-Coder\EN-Coder\bin\Debug\FontAwesome.Sharp.Pro.dll
+C:\Users\MKenBC\Desktop\System Encoder\Latest Ongoing\EN-Coder\EN-Coder\obj\Debug\EN-Coder.csprojAssemblyReference.cache
+C:\Users\MKenBC\Desktop\System Encoder\Latest Ongoing\EN-Coder\EN-Coder\obj\Debug\EN_Coder.mainForm.resources
+C:\Users\MKenBC\Desktop\System Encoder\Latest Ongoing\EN-Coder\EN-Coder\obj\Debug\EN_Coder.Forms.FormDProductInventory.resources
+C:\Users\MKenBC\Desktop\System Encoder\Latest Ongoing\EN-Coder\EN-Coder\obj\Debug\EN_Coder.Forms.FormECashMonitor.resources
+C:\Users\MKenBC\Desktop\System Encoder\Latest Ongoing\EN-Coder\EN-Coder\obj\Debug\EN_Coder.Forms.FormFResellersIncome.resources
+C:\Users\MKenBC\Desktop\System Encoder\Latest Ongoing\EN-Coder\EN-Coder\obj\Debug\EN_Coder.Forms.FormGStatistics.resources
+C:\Users\MKenBC\Desktop\System Encoder\Latest Ongoing\EN-Coder\EN-Coder\obj\Debug\EN_Coder.Forms.FormHEncoder.resources
+C:\Users\MKenBC\Desktop\System Encoder\Latest Ongoing\EN-Coder\EN-Coder\obj\Debug\EN_Coder.Forms.Home.FormLogIn.resources
+C:\Users\MKenBC\Desktop\System Encoder\Latest Ongoing\EN-Coder\EN-Coder\obj\Debug\EN_Coder.Forms.Home.FormSignIn.resources
+C:\Users\MKenBC\Desktop\System Encoder\Latest Ongoing\EN-Coder\EN-Coder\obj\Debug\EN_Coder.Forms.Info_Manager_Forms.FormAResellerInfo.resources
+C:\Users\MKenBC\Desktop\System Encoder\Latest Ongoing\EN-Coder\EN-Coder\obj\Debug\EN_Coder.Forms.Info_Manager_Forms.FormBProductInfo.resources
+C:\Users\MKenBC\Desktop\System Encoder\Latest Ongoing\EN-Coder\EN-Coder\obj\Debug\EN_Coder.Forms.Info_Manager_Forms.FormCBranchesInfo.resources
+C:\Users\MKenBC\Desktop\System Encoder\Latest Ongoing\EN-Coder\EN-Coder\obj\Debug\EN_Coder.Properties.Resources.resources
+C:\Users\MKenBC\Desktop\System Encoder\Latest Ongoing\EN-Coder\EN-Coder\obj\Debug\EN_Coder.Splash.resources
+C:\Users\MKenBC\Desktop\System Encoder\Latest Ongoing\EN-Coder\EN-Coder\obj\Debug\EN-Coder.csproj.GenerateResource.cache
+C:\Users\MKenBC\Desktop\System Encoder\Latest Ongoing\EN-Coder\EN-Coder\obj\Debug\EN-Coder.csproj.CoreCompileInputs.cache
+C:\Users\MKenBC\Desktop\System Encoder\Latest Ongoing\EN-Coder\EN-Coder\obj\Debug\EN-Coder.csproj.CopyComplete
+C:\Users\MKenBC\Desktop\System Encoder\Latest Ongoing\EN-Coder\EN-Coder\obj\Debug\EN-Coder.exe
+C:\Users\MKenBC\Desktop\System Encoder\Latest Ongoing\EN-Coder\EN-Coder\obj\Debug\EN-Coder.pdb
+C:\Users\MKenBC\Desktop\My Files\Project (Encoder)\EN-Coder\EN-Coder\obj\Debug\EN-Coder.csproj.ResolveComReference.cache
+C:\Users\MKenBC\Desktop\My Files\Project (Encoder)\EN-Coder\EN-Coder\obj\Debug\EN_Coder.Forms.Sellers.resources
+C:\Users\MKenBC\Desktop\My Files\Project (Encoder)\EN-Coder\EN-Coder\obj\Debug\EN_Coder.Forms.Home.FormUpdate.resources
+C:\Users\MKenBC\Desktop\My Files\Project (Encoder)\EN-Coder\EN-Coder\obj\Debug\EN_Coder.Forms.Home.FormPass.resources
+C:\Users\MKenBC\Desktop\My Files\Project (Encoder)\EN-Coder\EN-Coder\obj\Debug\EN_Coder.Forms.Home.FormDelete.resources
